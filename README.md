@@ -40,21 +40,6 @@ O código permite:
 
 ---
 
-## 📌 Exemplo de Uso
-
-### Estrutura Básica do Grafo
-
-```python
-grafo = {
-    'A': ['B', 'C'],
-    'B': ['A', 'D', 'E'],
-    'C': ['A', 'F'],
-    'D': ['B'],
-    'E': ['B', 'F'],
-    'F': ['C', 'E']
-}
-
-
 ## 👥 Integrantes do Projeto
 
 | Nome                              | RA      | Função / Contribuição Principal                      |
