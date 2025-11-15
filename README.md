@@ -42,9 +42,9 @@ O código permite:
 
 ## 👥 Integrantes do Projeto
 
-| Nome                              | RA      | Função / Contribuição Principal                      |
-|-----------------------------------|---------|------------------------------------------------------|
-| **Thauanny da Cruz Oliveira**     | 2002166 | Estrutura do código, testes e documentação           |
-| **Ana Júlia Pereira Romera**      | 1986827 | Implementação da matriz de adjacência                |
-| **Sophia Mattos**                 | 2001960 | Implementação da lista de adjacência                 |
-| **Gabriela Akemi Rejane**         | 2017418 | Revisão e análise comparativa das estruturas         |
+| Nome                              | RA      |
+|-----------------------------------|---------|
+| **Thauanny da Cruz Oliveira**     | 2002166 |
+| **Ana Júlia Pereira Romera**      | 1986827 |
+| **Sophia Mattos**                 | 2001960 |
+| **Gabriela Akemi Rejane**         | 2017418 |
